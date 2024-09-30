@@ -1,0 +1,4 @@
+find a particular character
+this is a text file
+facebook
+whatsapp
